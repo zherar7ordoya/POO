@@ -1,0 +1,11 @@
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\bin\Debug\Genericos.exe.config
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\bin\Debug\Genericos.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\bin\Debug\Genericos.pdb
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\obj\Debug\07) Genericos.csproj.AssemblyReference.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\obj\Debug\07) Genericos.csproj.SuggestedBindingRedirects.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\obj\Debug\Genericos.PersonaForm.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\obj\Debug\Genericos.Properties.Resources.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\obj\Debug\07) Genericos.csproj.GenerateResource.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\obj\Debug\07) Genericos.csproj.CoreCompileInputs.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\obj\Debug\Genericos.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\06-Generics\obj\Debug\Genericos.pdb

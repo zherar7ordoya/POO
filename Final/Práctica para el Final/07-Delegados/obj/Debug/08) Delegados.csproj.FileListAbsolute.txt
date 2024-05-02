@@ -1,0 +1,11 @@
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\bin\Debug\Delegados.exe.config
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\bin\Debug\Delegados.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\bin\Debug\Delegados.pdb
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\obj\Debug\08) Delegados.csproj.AssemblyReference.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\obj\Debug\08) Delegados.csproj.SuggestedBindingRedirects.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\obj\Debug\Delegados.DelegadoForm.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\obj\Debug\Delegados.Properties.Resources.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\obj\Debug\08) Delegados.csproj.GenerateResource.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\obj\Debug\08) Delegados.csproj.CoreCompileInputs.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\obj\Debug\Delegados.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\07-Delegados\obj\Debug\Delegados.pdb

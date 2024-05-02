@@ -1,0 +1,11 @@
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\bin\Debug\Captura.exe.config
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\bin\Debug\Captura.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\bin\Debug\Captura.pdb
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\obj\Debug\(Captura).csproj.AssemblyReference.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\obj\Debug\(Captura).csproj.SuggestedBindingRedirects.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\obj\Debug\Captura.ComedorForm.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\obj\Debug\Captura.Properties.Resources.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\obj\Debug\(Captura).csproj.GenerateResource.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\obj\Debug\(Captura).csproj.CoreCompileInputs.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\obj\Debug\Captura.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\00) Herencia\obj\Debug\Captura.pdb

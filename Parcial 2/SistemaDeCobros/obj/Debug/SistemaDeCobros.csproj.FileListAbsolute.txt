@@ -1,0 +1,10 @@
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\bin\Debug\SistemaDeCobros.exe.config
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\bin\Debug\SistemaDeCobros.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\bin\Debug\SistemaDeCobros.pdb
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\obj\Debug\SistemaDeCobros.csproj.AssemblyReference.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\obj\Debug\SistemaDeCobros.CFormulario.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\obj\Debug\SistemaDeCobros.Properties.Resources.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\obj\Debug\SistemaDeCobros.csproj.GenerateResource.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\obj\Debug\SistemaDeCobros.csproj.CoreCompileInputs.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\obj\Debug\SistemaDeCobros.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Parcial 2\SistemaDeCobros\obj\Debug\SistemaDeCobros.pdb

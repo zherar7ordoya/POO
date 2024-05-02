@@ -1,0 +1,11 @@
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\bin\Debug\DelegadosLambda.exe.config
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\bin\Debug\DelegadosLambda.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\bin\Debug\DelegadosLambda.pdb
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\obj\Debug\09) Delegados Lambda.csproj.AssemblyReference.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\obj\Debug\09) Delegados Lambda.csproj.SuggestedBindingRedirects.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\obj\Debug\DelegadosLambda.Formulario.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\obj\Debug\DelegadosLambda.Properties.Resources.resources
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\obj\Debug\09) Delegados Lambda.csproj.GenerateResource.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\obj\Debug\09) Delegados Lambda.csproj.CoreCompileInputs.cache
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\obj\Debug\DelegadosLambda.exe
+C:\Documents\AP5\(EndGame)\[POO] Cardacci\Final\Práctica para el Final\08-Lambda con Delegados\obj\Debug\DelegadosLambda.pdb
