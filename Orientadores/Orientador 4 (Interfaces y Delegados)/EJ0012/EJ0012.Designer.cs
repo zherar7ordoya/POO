@@ -1,6 +1,6 @@
 ﻿namespace EJemplo12
 {
-    partial class Form1
+    partial class EJ0012
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -41,7 +41,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Ejecutar con Lambda";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.EjecutarLambda_Click);
             // 
             // button2
             // 
@@ -51,7 +51,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "Ejecutar con LinQ";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.button2.Click += new System.EventHandler(this.EjecutarLinQ_Click);
             // 
             // textBox1
             // 
@@ -71,7 +71,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.Form_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
