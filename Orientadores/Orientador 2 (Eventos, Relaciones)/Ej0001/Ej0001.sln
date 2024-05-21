@@ -3,8 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej0001", "Ej0001\Ej0001.csproj", "{7AFF0FC2-B22B-4BC3-BA08-0721D35BC52B}"
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej0001", "Ej0001.csproj", "{7AFF0FC2-B22B-4BC3-BA08-0721D35BC52B}"
 EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
