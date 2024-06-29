@@ -1,11 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace EJ0005
@@ -32,74 +26,101 @@ namespace EJ0005
             foreach (Persona xP in P)
             { textBox1.Text += "\t" + xP.Nombre + "\t" + xP.Apellido + "\t" + xP.Edad.ToString() + Environment.NewLine; }
 
-            Array.Sort(P, new Persona.NombreAsc());
+            Array.Sort(P, new Persona.NombreAscendente());
             textBox2.Text += Environment.NewLine + Environment.NewLine + "Orden por Nombre ASC: " +
                              Environment.NewLine + Environment.NewLine;
             foreach (Persona xP in P)
             { textBox2.Text += "\t" + xP.Nombre + "\t" + xP.Apellido + "\t" + xP.Edad.ToString() + Environment.NewLine; }
 
-            Array.Sort(P, new Persona.NombreDesc());
+            Array.Sort(P, new Persona.NombreDescendente());
             textBox3.Text += Environment.NewLine + Environment.NewLine + "Orden por Nombre DESC: " +
                              Environment.NewLine + Environment.NewLine;
             foreach (Persona xP in P)
             { textBox3.Text += "\t" + xP.Nombre + "\t" + xP.Apellido + "\t" + xP.Edad.ToString() + Environment.NewLine; }
 
-            Array.Sort(P, new Persona.ApellidoAsc());
+            Array.Sort(P, new Persona.ApellidoAscendente());
             textBox4.Text += Environment.NewLine + Environment.NewLine + "Orden por Apellido ASC: " +
                              Environment.NewLine + Environment.NewLine;
             foreach (Persona xP in P)
             { textBox4.Text += "\t" + xP.Nombre + "\t" + xP.Apellido + "\t" + xP.Edad.ToString() + Environment.NewLine; }
 
-            Array.Sort(P, new Persona.ApellidoDesc());
+            Array.Sort(P, new Persona.ApellidoDescendente());
             textBox5.Text += Environment.NewLine + Environment.NewLine + "Orden por Apellido DESC: " +
                              Environment.NewLine + Environment.NewLine;
             foreach (Persona xP in P)
             { textBox5.Text += "\t" + xP.Nombre + "\t" + xP.Apellido + "\t" + xP.Edad.ToString() + Environment.NewLine; }
 
-            Array.Sort(P, new Persona.EdadAsc());
+            Array.Sort(P, new Persona.EdadAscendente());
             textBox6.Text += Environment.NewLine + Environment.NewLine + "Orden por Edad ASC: " +
                              Environment.NewLine + Environment.NewLine;
             foreach (Persona xP in P)
             { textBox6.Text += "\t" + xP.Nombre + "\t" + xP.Apellido + "\t" + xP.Edad.ToString() + Environment.NewLine; }
 
-            Array.Sort(P, new Persona.EdadDesc());
+            Array.Sort(P, new Persona.EdadDescendente());
             textBox7.Text += Environment.NewLine + Environment.NewLine + "Orden por Edad DESC: " +
                              Environment.NewLine + Environment.NewLine;
             foreach (Persona xP in P)
             { textBox7.Text += "\t" + xP.Nombre + "\t" + xP.Apellido + "\t" + xP.Edad.ToString() + Environment.NewLine; }
         }
         public class Persona
-        {   public string Nombre { get; set; }
+        {
+            public string Nombre { get; set; }
             public string Apellido { get; set; }
             public int Edad { get; set; }
-            public class NombreAsc : IComparer<Persona>
-                {public int Compare(Persona x, Persona y){ return String.Compare(x.Nombre, y.Nombre); }}
-            public class NombreDesc : IComparer<Persona>
-                {public int Compare(Persona x, Persona y){ return String.Compare(x.Nombre, y.Nombre) * -1; }}
-            public class ApellidoAsc : IComparer<Persona>
-                { public int Compare(Persona x, Persona y){ return String.Compare(x.Apellido, y.Apellido); }}
-            public class ApellidoDesc : IComparer<Persona>
-                {public int Compare(Persona x, Persona y) { return String.Compare(x.Apellido, y.Apellido) * -1;}}
-            public class EdadAsc : IComparer<Persona>
-                {public int Compare(Persona x, Persona y)
-                    {
-                        int rdo = 0;
-                        if (x.Edad < y.Edad) rdo = -1;
-                        if (x.Edad == y.Edad) rdo = 0;
-                        if (x.Edad > y.Edad) rdo = 1;
-                        return rdo;
-                    }
+
+            public class NombreAscendente : IComparer<Persona>
+            {
+                public int Compare(Persona x,
+                                   Persona y)
+                    => string.Compare(x.Nombre, y.Nombre);
+            }
+
+            public class NombreDescendente : IComparer<Persona>
+            {
+                public int Compare(Persona x,
+                                   Persona y)
+                    => string.Compare(x.Nombre, y.Nombre) * -1;
+            }
+
+            public class ApellidoAscendente : IComparer<Persona>
+            {
+                public int Compare(Persona x,
+                                   Persona y)
+                    => string.Compare(x.Apellido, y.Apellido);
+            }
+
+            public class ApellidoDescendente : IComparer<Persona>
+            {
+                public int Compare(Persona x,
+                                   Persona y)
+                    => string.Compare(x.Apellido, y.Apellido) * -1;
+            }
+
+            public class EdadAscendente : IComparer<Persona>
+            {
+                public int Compare(Persona x, Persona y)
+                {
+                    return x.Edad.CompareTo(y.Edad);
                 }
-            public class EdadDesc : IComparer<Persona>
-                {public int Compare(Persona x, Persona y)
-                    {
-                        int rdo = 0;
-                        if (x.Edad < y.Edad) rdo = -1;
-                        if (x.Edad == y.Edad) rdo = 0;
-                        if (x.Edad > y.Edad) rdo = 1;
-                        return rdo * -1;
-                    }
+            }
+
+            public class EdadDescendente : IComparer<Persona>
+            {
+                public int Compare(Persona x, Persona y)
+                {
+                    /*
+                     * El método CompareTo() de la clase int compara dos números
+                     * enteros y devuelve:
+                     *      -1 si el primer número es menor que el segundo.
+                     *      0 si los números son iguales.
+                     *      1 si el primer número es mayor que el segundo.
+                     * Al utilizar x.Edad.CompareTo(y.Edad), obtenemos
+                     * directamente la comparación de las edades en un solo paso.
+                     */
+                    int resultado = x.Edad.CompareTo(y.Edad);
+                    return resultado * -1;
                 }
+            }
         }
     }
 }
